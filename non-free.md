@@ -130,4 +130,4 @@
 
 ## Scheduling
 
-* [Hookless](https://hookless.co) `Prosperity-3.0.0` - Schedule one time or recurring webhook triggers.
+- [Hookless](https://hookless.co) `⊘ Proprietary` - Schedule one time or recurring webhook triggers. ([Source Code](https://github.com/argovaerts/hookless.co)) `PHP`
